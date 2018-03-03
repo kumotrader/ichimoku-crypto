@@ -6,6 +6,8 @@ This demo shows how to calculate and generate beautiful Ichimoku diagrams.
 
 Sample Generated Image:
 
+![Ichimoku Crypto (Python) Sample Code](https://github.com/kumotrader/ichimoku-crypto/blob/master/sample-data/sample.png "Ichimoku Crypto Python/Matplotlib")
+
 
 Telegram Group: https://t.me/kumo_trading_tech_analysis
 - Learn how to use Ichimoku strategies for crypto trading
